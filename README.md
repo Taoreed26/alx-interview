@@ -1,2 +1,1 @@
-# alx-interview
-Pascal triangle interview
+# 0x00-pascal_triangle
