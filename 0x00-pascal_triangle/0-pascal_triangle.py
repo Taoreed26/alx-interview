@@ -1,5 +1,6 @@
+#!/usr/bin/python3
 '''
-module that returns Pascal Triangle
+module to return pascal triangle
 '''
 
 
